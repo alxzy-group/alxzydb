@@ -2,10 +2,9 @@
   {
     id: 1,
     title: "Iron Man (2008)",
-    poster: "https://iili.io/KzoMTkF.jpg"
+    poster: "https://iili.io/KzoMTkF.jpg",
     description: "Nonton Iron Man 2008 secara gratis hanya di nonton.alxzy.ny.id",
     videoUrl: "not found",
-    genres: ["Action", "Superheroes"],
-    
+    genres: ["Action", "Superheroes"]
   }
 ]
